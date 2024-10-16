@@ -6,9 +6,9 @@ Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
 
 アプリケーション開発のためのこのツールを勉強しましょう
 
-## [Introdução - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-UIKit-Introducao-br-pt.md)
+## [Introdução](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Introducao-br-pt.md)
 
-## [はじめに - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-UIKit-Introducao-jp.md)
+## [はじめに](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Introducao-jp.md)
 
 Atualizado   22-09-2024
 アップデート 2024-09-22
