@@ -2,4 +2,5 @@
 
 UIKit を使用するように Xcode を設定する
 
-## [設定 - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-Configuracao-jp.md)
+## [インストール](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Instalacao-br-pt.md)
+## [設定](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Configuracao-jp.md)

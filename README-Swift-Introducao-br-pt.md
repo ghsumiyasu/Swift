@@ -1,5 +1,6 @@
-# Preparando o Swift
+# Criando soluções com o Swift
 
-Configurando o Xcode para usar o UIKit
+Preparando o Xcode e seus recursos
 
-## [Configuração - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-Configuracao-br-pt.md)
+## [Instalação](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Instalacao-br-pt.md)
+## [Configuração](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Configuracao-br-pt.md)
