@@ -1,6 +1,6 @@
-# Instalação do Xcode
+# Configuração do Xcode
 
-Instalando o Xcode no Mac
+Configurando o Xcode para usar o UIKit
 
 <div align="center">
 Figura 01 - Versão do Xcode

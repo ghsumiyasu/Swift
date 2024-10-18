@@ -1,6 +1,6 @@
-# Xcodeのインストール
+# Xcodeの設定
 
-XcodeをMacにXcodeをインストールする
+XcodeをMacにXcodeを設定する
 
 
 <div align="center">
