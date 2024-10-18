@@ -1,5 +1,5 @@
-# XcodeとSwiftの基本
+# Swiftでソリューションを作成する
 
-UIKit を使用するように Xcode を設定する
+UIKitを使用するようにXcodeを設定する
 
 ## [UIKit](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-UIKit-jp.md)
