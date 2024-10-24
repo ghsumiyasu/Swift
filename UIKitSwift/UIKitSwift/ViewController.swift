@@ -8,32 +8,31 @@
 import UIKit
 
 class ViewController: UIViewController {
-    private lazy var backgroundView: UIImageView = {
-        let imageView = UIImageView(frame: .zero)
-        imageView.image = UIImage(named: "background")
-        imageView.contentMode = .scaleAspectFill
-        imageView.translatesAutoresizingMaskIntoConstraints = false
-        return imageView
+    private lazy var customView: UIView = {
+        let view = UIView(frame: .zero)
+        view.backgroundColor = .black
+        view.translatesAutoresizingMaskIntoConstraints = false
+        return view
     }()
     override func viewDidLoad() {
         super.viewDidLoad()
-        setView()
+        setupView()
     }
     
-    private func setView() {
+    private func setupView() {
         view.backgroundColor = .red
         setHierarchy()
         setConstrains()
     }
     private func setHierarchy() {
-        view.addSubview(backgroundView)
+        view.addSubview(customView)
     }
     private func setConstrains() {
         NSLayoutConstraint.activate([
-            backgroundView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
-            backgroundView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor),
-            backgroundView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor),
-            backgroundView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor)
+            customView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 100),
+            customView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: 50),
+            customView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor, constant: -50),
+            customView.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor, constant: -100)
         ])    }
 
 }
