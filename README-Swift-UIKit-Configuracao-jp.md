@@ -1,10 +1,10 @@
-# Xcodeの設定
+# エックスコードの設定
 
-XcodeをMacにXcodeを設定する
+エックスコードをマックオーエスに設定する
 
 
 <div align="center">
-絵 01 - Xcodeのバージョン
+絵 01 - エックスコードのバージョン
 </div>
 
 ![](Imagens/Xcode-Instalacao-Img01.png)

@@ -1,5 +1,5 @@
-# Swiftでソリューションを作成する
+# スイフトでソリューションを作成する
 
-UIKitを使用するようにXcodeを設定する
+ユーアイキットを使用するようにエックスコードを設定する
 
-## [UIKit](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-UIKit-jp.md)
+## [ユーアイキット](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-UIKit-jp.md)
