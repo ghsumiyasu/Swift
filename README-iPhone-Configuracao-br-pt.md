@@ -1,6 +1,6 @@
-# Configuração do Xcode
+# Configuração do iPhone
 
-Configurando o Xcode para usar o UIKit
+Configurando o iPhone modo desenvolvedor
 
 <div align="center">
 Figura 01 - Toque configurações
