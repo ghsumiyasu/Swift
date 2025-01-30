@@ -115,15 +115,3 @@ Figura 19
 </div>
 
 ![](Imagens/SpriteKit-Animacao-Img19.png)
-
-<div align="center">
-Figura 20
-</div>
-
-![](Imagens/SpriteKit-Animacao-Img20.png)
-
-<div align="center">
-Figura 21
-</div>
-
-![](Imagens/SpriteKit-Animacao-Img21.png)
