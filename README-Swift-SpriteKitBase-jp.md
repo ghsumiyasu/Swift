@@ -6,3 +6,4 @@
 ## [コンポーネント](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteKit-Componente-jp.md)
 ## [タッチ](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteKit-TocarTela-jp.md)
 ## [アニメーション](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteKit-Animacao-jp.md)
+## [タイル](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteKit-Tile-jp.md)
