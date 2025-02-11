@@ -223,3 +223,9 @@
 </div>
 
 ![](Imagens/SpriteKit-Tile-Img37.png)
+
+<div align="center">
+絵 38
+</div>
+
+![](Imagens/SpriteKit-Tile-Img38.png)

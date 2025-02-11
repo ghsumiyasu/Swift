@@ -223,3 +223,9 @@ Figura 37
 </div>
 
 ![](Imagens/SpriteKit-Tile-Img37.png)
+<div align="center">
+
+Figura 38
+</div>
+
+![](Imagens/SpriteKit-Tile-Img38.png)
