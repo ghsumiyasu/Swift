@@ -1,6 +1,6 @@
 # SKSpriteNode
 
-SKSpriteNode
+ノードへの役割の割り当て
 
-## [run move](https://github.com/ghsumiyasu/Swift/blob/main/README-RunMove-jp.md)
+## [.run(.move(to: )](https://github.com/ghsumiyasu/Swift/blob/main/README-SKSpriteNode-RunMoveTo-jp.md)
 
