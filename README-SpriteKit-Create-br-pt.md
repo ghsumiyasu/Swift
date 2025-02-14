@@ -1,4 +1,4 @@
-# Configuração do Xcode
+# Projeto SpriteKit
 
 Configurando o Xcode para usar o SpriteKit
 

@@ -2,4 +2,4 @@
 
 スプライトキットでノードを作成する
 
-## [SKNode](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteKit-SKNode-br-pt.md)
+## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-SKSpriteNode-jp.md)
