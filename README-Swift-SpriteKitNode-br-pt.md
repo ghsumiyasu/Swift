@@ -2,4 +2,4 @@
 
 Criando node com o SpriteKit
 
-## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-SKSpriteNode-br-pt.md)
+## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-SKSpriteNode-Run-br-pt.md)

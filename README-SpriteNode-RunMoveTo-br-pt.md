@@ -6,11 +6,11 @@ Movimentando o sprite
 Figura 01
 </div>
 
-![](Imagens/SKSpriteNode-Run-Move-Img01.png)
+![](Imagens/SKSpriteNode-RunMoveTo-Img01.png)
 
 <div align="center">
 Figura 02
 </div>
 
-![](Imagens/SKSpriteNode-Run-Move-Img02.png)
+![](Imagens/SKSpriteNode-RunMoveTo-Img02.png)
 
