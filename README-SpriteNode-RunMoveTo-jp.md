@@ -1,4 +1,4 @@
-# SKSpriteNode Run Move
+# スプライトキットノードのランムーブ
 
 スプライトの動く
 
