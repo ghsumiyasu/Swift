@@ -14,3 +14,7 @@
 
 ![](Imagens/SpriteNode-Run-Img02.png)
 
+絵 03
+</div>
+
+![](Imagens/SpriteNode-Run-Img03.png)
