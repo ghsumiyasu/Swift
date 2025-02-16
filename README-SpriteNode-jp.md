@@ -1,5 +1,5 @@
-# スプライトキットのラン
+# スプライトキットのノード
 
-スプライトキットでランを作成する
+スプライトキットでコマンド
 
 ## [.run()](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-Run-jp.md)
