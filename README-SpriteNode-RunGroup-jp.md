@@ -6,7 +6,7 @@
 絵 01
 </div>
 
-![](Imagens/SpriteNode-RunSequence-Img01.png)
+![](Imagens/SpriteNode-RunGroup-Img01.png)
 
 <div align="center">
 絵 02
