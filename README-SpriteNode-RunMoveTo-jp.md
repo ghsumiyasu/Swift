@@ -12,5 +12,5 @@
 絵 02
 </div>
 
-![](Imagens/SpriteNode-RunMoveTo-Img02.png)
+![](Imagens/SpriteNode-Run-Img02.png)
 

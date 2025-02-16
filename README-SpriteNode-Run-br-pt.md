@@ -1,5 +1,7 @@
-# Run no SpriteKit
+# Run e Move
 
-Utlizando a funcao Run no SpriteKit
+Atribuindo movimento ao node
 
-## [.run()](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-RunMove-br-pt.md)
+## [.run(.move(to: )](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-RunMoveTo-br-pt.md)
+
+

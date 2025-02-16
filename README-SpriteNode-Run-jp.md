@@ -1,5 +1,6 @@
-# スプライトキットのラン
+# ランとムーヴ
 
-スプライトキットでランを作成する
+ノードへの役割の割り当て
 
-## [.run()](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-RunMove-jp.md)
+## [.run(.move(to: )](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-RunMoveTo-jp.md)
+
