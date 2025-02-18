@@ -1,4 +1,4 @@
-# SKSpriteNode Run Move
+# SKSpriteNode Run Rotate
 
 Movimentando o sprite
 

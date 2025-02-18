@@ -1,4 +1,4 @@
-# SKSpriteNode
+# Funcao SKNode
 
 Atribuindo caracteristica ao SpriteNode
 

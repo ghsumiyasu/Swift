@@ -1,4 +1,4 @@
-# SKSpriteNode Run Move
+# SKSpriteNode Run Group
 
 Movimentando o sprite
 
