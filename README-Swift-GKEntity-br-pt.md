@@ -6,16 +6,40 @@ Criando entidade no Swift
 Figura 01
 </div>
 
-![](Imagens/XXX-Img01.png)
+![](Imagens/GamePlayKit-GKEntity-Img01.png)
 
 <div align="center">
 Figura 02
 </div>
 
-![](Imagens/XXX-Img02.png)
+![](Imagens/GamePlayKit-GKEntity-Img02.png)
 
 <div align="center">
 Figura 03
 </div>
 
-![](Imagens/XXX-Img03.png)
+![](Imagens/GamePlayKit-GKEntity-Img03.png)
+
+<div align="center">
+Figura 04
+</div>
+
+![](Imagens/GamePlayKit-GKEntity-Img04.png)
+
+<div align="center">
+Figura 05
+</div>
+
+![](Imagens/GamePlayKit-GKEntity-Img05.png)
+
+<div align="center">
+Figura 06
+</div>
+
+![](Imagens/GamePlayKit-GKEntity-Img06.png)
+
+<div align="center">
+Figura 07
+</div>
+
+![](Imagens/GamePlayKit-GKEntity-Img07.png)
