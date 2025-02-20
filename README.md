@@ -10,6 +10,6 @@ Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
 
 ## [はじめに](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Introducao-jp.md)
 
-Atualizado em 27-10-2024
-更新 令和6年10月27日
+Atualizado em 19-02-2025
+更新 令和7年2月19日
 
