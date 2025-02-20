@@ -1,4 +1,4 @@
-# String Varnun
+# String Varnum
 
 Formatando uma String
 
