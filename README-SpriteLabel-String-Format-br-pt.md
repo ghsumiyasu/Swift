@@ -8,3 +8,4 @@ Figura 01
 
 ![](Imagens/SpriteLabel-String-Format-Img01.png)
 
+

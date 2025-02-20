@@ -7,3 +7,4 @@
 </div>
 
 ![](Imagens/SpriteLabel-String-Format-Img01.png)
+
