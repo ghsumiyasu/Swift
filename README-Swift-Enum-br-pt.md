@@ -9,7 +9,7 @@ Figura 01
 ![](Imagens/SpriteKit-Enum-Img01.png)
 
 <div align="center">
-Figura 01
+Figura 02
 </div>
 
 ![](Imagens/SpriteKit-Enum-Img02.png)

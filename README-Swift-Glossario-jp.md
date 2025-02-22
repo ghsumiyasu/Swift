@@ -1,6 +1,6 @@
-# Glossário Swift
+# 用語集 スイフト
 
-Estruturas e expressões no Swift
+スイフトの特徴
 
-## [Enum](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Enum-br-pt.md)
-## [Closure](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-br-pt.md)
+## [イーナム](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Enum-br-pt.md)
+## [クロージャ](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-br-pt.md)
