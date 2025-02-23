@@ -2,5 +2,5 @@
 
 スイフトの特徴
 
-## [イーナム](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Enum-br-pt.md)
-## [クロージャ](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-br-pt.md)
+## [イーナム](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Enum-jp.md)
+## [クロージャ](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-jp.md)
