@@ -4,4 +4,5 @@
 
 ## [ヴェアリィアブル](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Variavel-jp.md)
 ## [ファンクション](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Funcao-jp.md)
-## [インスタンス](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Instance-jp.md
+## [インスタンス](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Instance-jp.md)
+## [アップデート](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Update-br-pt.md)
