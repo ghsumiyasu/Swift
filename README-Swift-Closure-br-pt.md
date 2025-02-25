@@ -6,3 +6,4 @@ Acesso a função externa
 ## [Function](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Funcao-br-pt.md)
 ## [Instance](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Instance-br-pt.md)
 ## [Update](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-Update-br-pt.md)
+## [Multi Update](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Closure-MultiUpdate-br-pt.md)
