@@ -6,3 +6,4 @@
 ## [SpriteKitBase](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SpriteKitBase-jp.md)
 ## [SpriteKitNode](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Construtor-jp.md)
 ## [SpriteKitLabel](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKLabel-jp.md)
+## [SpriteKitShape](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKShape-jp.md)
