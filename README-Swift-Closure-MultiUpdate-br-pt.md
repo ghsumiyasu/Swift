@@ -8,7 +8,6 @@ Figura 01
 
 ![](Imagens/Swift-Closure-MultiUpdate-Img01.png)
 
-
 <div align="center">
 Figura 02
 </div>
