@@ -1,5 +1,5 @@
-# バックグラウンドのアスペクト
+# バックグラウンドの設定
 
-バックグラウンドを設定する
+アップのアピアランスを設定する
 
 ## [アスペクト](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-BG-Aspecto-jp.md)
