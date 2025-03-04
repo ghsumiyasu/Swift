@@ -1,7 +1,5 @@
-# Funcao SKNode
+# SKNode node
 
-Atribuindo caracteristica ao SpriteNode
+Node derivado do SKNode
 
-## [.run( )](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-Run-br-pt.md)
-## [update( )](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-Update-br-pt.md)
-## [touches...( )](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteNode-Touches-br-pt.md)
+## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKSpriteNode-br-pt.md)

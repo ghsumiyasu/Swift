@@ -1,4 +1,4 @@
-# Metodo String
+# Função String
 
 Alterando a estrutura da String
 
