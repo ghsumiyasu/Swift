@@ -2,4 +2,4 @@
 
 Node derivado do SKNode
 
-## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKSpriteNode-br-pt.md)
+## [SKSpriteNode](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Node-SKSprite-br-pt.md)
