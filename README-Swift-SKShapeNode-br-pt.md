@@ -1,9 +1,21 @@
-# Metodo Shape
+# Classe SKShapeNode
 
-Figura geometrica 
+Configurando um SKShapeNode
 
-## [Rectangle](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteShape-Rectangle-br-pt.md)
-## [Rounded](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteShape-Rounded-br-pt.md)
-## [Circle](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteShape-Circle-br-pt.md)
-## [Ellipse](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteShape-Ellipse-br-pt.md)
-## [Path](https://github.com/ghsumiyasu/Swift/blob/main/README-SpriteShape-Path-br-pt.md)
+<div align="center">
+Figura 01
+</div>
+
+![](Imagens/SKNode-SKShapeNode-Img01.png)
+
+<div align="center">
+Figura 02
+</div>
+
+![](Imagens/SKNode-SKShapeNode-Img02.png)
+
+<div align="center">
+Figura 03
+</div>
+
+![](Imagens/SKNode-SKShapeNode-Img03.png)

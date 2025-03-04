@@ -6,4 +6,4 @@ Projetos utilizando SpriteKit
 ## [SpriteKitBase](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SpriteKitBase-br-pt.md)
 ## [SpriteKitNode](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-Construtor-br-pt.md)
 ## [SpriteKitLabel](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKLabelNode-Funcao-br-pt.md)
-## [SpriteKitShape](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKShapeNode-br-pt.md)
+## [SpriteKitShape](https://github.com/ghsumiyasu/Swift/blob/main/README-Swift-SKShapeNode-Funcao-br-pt.md)
